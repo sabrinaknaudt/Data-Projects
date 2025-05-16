@@ -17,7 +17,7 @@ Data Visualization
 
 Data Visualization-Interactive Dashboard
 - Interactive dashboard not rendered in GitHub notebook view.
-- If you wish, download html file and open locally to view the dashboard.
+- If you wish, download the html file and open it locally to view the dashboard.
 
 GGR274 Final Project
 - Used Pandas, Numpy,  matplotlib.pyplot and data from the Ontario Community Health Profiles Partnership to answer: “Is there a higher prevalence of diabetes in low income neighbourhoods?”
